@@ -1,2 +1,3 @@
 Git is a distributed version control system.
-Gie is a free software distributed under the GRL.
+Git is a free software distributed under the GRL.
+Git has a mutable index called stage.
